@@ -1,0 +1,12 @@
+/Users/emre/RiderProjects/FizzBuzzer/FizzBuzzer/bin/Debug/netcoreapp2.0/FizzBuzzer.deps.json
+/Users/emre/RiderProjects/FizzBuzzer/FizzBuzzer/bin/Debug/netcoreapp2.0/FizzBuzzer.runtimeconfig.json
+/Users/emre/RiderProjects/FizzBuzzer/FizzBuzzer/bin/Debug/netcoreapp2.0/FizzBuzzer.runtimeconfig.dev.json
+/Users/emre/RiderProjects/FizzBuzzer/FizzBuzzer/bin/Debug/netcoreapp2.0/FizzBuzzer.dll
+/Users/emre/RiderProjects/FizzBuzzer/FizzBuzzer/bin/Debug/netcoreapp2.0/FizzBuzzer.pdb
+/Users/emre/RiderProjects/FizzBuzzer/FizzBuzzer/obj/Debug/netcoreapp2.0/FizzBuzzer.csproj.CoreCompileInputs.cache
+/Users/emre/RiderProjects/FizzBuzzer/FizzBuzzer/obj/Debug/netcoreapp2.0/FizzBuzzer.AssemblyInfoInputs.cache
+/Users/emre/RiderProjects/FizzBuzzer/FizzBuzzer/obj/Debug/netcoreapp2.0/FizzBuzzer.AssemblyInfo.cs
+/Users/emre/RiderProjects/FizzBuzzer/FizzBuzzer/obj/Debug/netcoreapp2.0/FizzBuzzer.dll
+/Users/emre/RiderProjects/FizzBuzzer/FizzBuzzer/obj/Debug/netcoreapp2.0/FizzBuzzer.pdb
+/Users/emre/RiderProjects/FizzBuzzer/FizzBuzzer/bin/Debug/netcoreapp2.0/FizzBuzzer.Lib.dll
+/Users/emre/RiderProjects/FizzBuzzer/FizzBuzzer/bin/Debug/netcoreapp2.0/FizzBuzzer.Lib.pdb

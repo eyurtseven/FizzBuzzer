@@ -1,0 +1,8 @@
+/Users/emre/RiderProjects/FizzBuzzer/FizzBuzzer.Lib/bin/Debug/netstandard2.0/FizzBuzzer.Lib.deps.json
+/Users/emre/RiderProjects/FizzBuzzer/FizzBuzzer.Lib/bin/Debug/netstandard2.0/FizzBuzzer.Lib.dll
+/Users/emre/RiderProjects/FizzBuzzer/FizzBuzzer.Lib/bin/Debug/netstandard2.0/FizzBuzzer.Lib.pdb
+/Users/emre/RiderProjects/FizzBuzzer/FizzBuzzer.Lib/obj/Debug/netstandard2.0/FizzBuzzer.Lib.csproj.CoreCompileInputs.cache
+/Users/emre/RiderProjects/FizzBuzzer/FizzBuzzer.Lib/obj/Debug/netstandard2.0/FizzBuzzer.Lib.AssemblyInfoInputs.cache
+/Users/emre/RiderProjects/FizzBuzzer/FizzBuzzer.Lib/obj/Debug/netstandard2.0/FizzBuzzer.Lib.AssemblyInfo.cs
+/Users/emre/RiderProjects/FizzBuzzer/FizzBuzzer.Lib/obj/Debug/netstandard2.0/FizzBuzzer.Lib.dll
+/Users/emre/RiderProjects/FizzBuzzer/FizzBuzzer.Lib/obj/Debug/netstandard2.0/FizzBuzzer.Lib.pdb
